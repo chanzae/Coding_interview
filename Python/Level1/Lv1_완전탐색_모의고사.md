@@ -1,3 +1,6 @@
+
+### 나의 풀이
+```python
 def solution(answers):
     import numpy as np
     
@@ -18,3 +21,4 @@ def solution(answers):
         if i:
             result.append(k+1)
     return result
+```
