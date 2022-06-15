@@ -34,7 +34,7 @@ def solution(record):
 split()을 사용해서 문자열을 구분한뒤 if조건문을 사용하여 결과를 result리스트에 담았다. result에서 user_id를 닉네임으로 바꾸기 위해 replace를 사용하였다.
 
 
-### 피드백
+### +) 다른 사람 풀이
 다른 사람의 풀이를 참고해 다시 풀어봄.
 ```python
 def solution(record):
