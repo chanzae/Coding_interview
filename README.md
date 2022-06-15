@@ -10,6 +10,10 @@ ___
 #### 🚪SQL
 - [SELECT](https://github.com/chanzae/Programmers-Algorithm/tree/main/SQL/SELECT)
 - [SUM,MAX,MIN](https://github.com/chanzae/Programmers-Algorithm/tree/main/SQL/SUM%2CMAX%2CMIN)
+- [GROUP BY](https://github.com/chanzae/Programmers-Algorithm/tree/main/SQL/GROUP%20BY)
+- [IS NULL](https://github.com/chanzae/Programmers-Algorithm/tree/main/SQL/IS%20NULL)
+- [JOIN](https://github.com/chanzae/Programmers-Algorithm/tree/main/SQL/JOIN)
+- [STRING,DATE](https://github.com/chanzae/Programmers-Algorithm/tree/main/SQL/STRING%2CDATE)
 
 
 
