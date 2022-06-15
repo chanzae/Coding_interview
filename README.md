@@ -6,8 +6,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/106292833/173176426-598a64c1-43d8-46af-a6e9-f2f8298e9878.jpg" width="600"/></p>
 
 ___ 
-링크를 클릭하면 문제 디렉토리로 이동합니다.
-
 #### 🚪SQL
 - [SELECT](https://github.com/chanzae/Programmers-Algorithm/tree/main/SQL/SELECT)
 - [SUM,MAX,MIN](https://github.com/chanzae/Programmers-Algorithm/tree/main/SQL/SUM%2CMAX%2CMIN)
