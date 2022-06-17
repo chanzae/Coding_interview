@@ -36,6 +36,7 @@ def solution(phone_book):
             return False
             
     return True
+```
 
 ### 설명
 **풀이1** : 딕셔너리를 사용해 접두사가 되는 번호는 키로 설정, 이 키와 길이가 같게 전화번호를 슬라이싱하여 값 리스트로 넣었다. 이를 for문을 사용, 같은 값이 있을 경우 false가 출력되도록 하였다.  
