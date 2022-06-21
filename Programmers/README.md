@@ -15,8 +15,8 @@
 |IS NULL|[바로가기](https://github.com/chanzaeCoding_interview/tree/main/Programmers/SQL/IS%20NULL)| `3/3` |
 |JOIN|[바로가기](https://github.com/chanzae/Coding_interview/tree/main/Programmers/SQL/JOIN)| `4/4` |
 |STRING,DATE|[바로가기](https://github.com/chanzae/Coding_interview/tree/main/Programmers/SQL/STRING%2CDATE)| `5/5` |
-
-
+  
+  
 # 🐍Python
 | 유형 | 코드모음 | 완료여부 |
 |:---:|:---:|:---:|
