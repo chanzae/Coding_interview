@@ -9,7 +9,7 @@
 [`자세히 보기`](https://programmers.co.kr/learn/courses/30/lessons/42579)
 
 ### 나의 풀이
-```pyhon
+```python
 def solution(genres, plays):
     import numpy as np
     plays = np.array(plays)
