@@ -1,6 +1,6 @@
 ### Task description
 that, given an array A consisting of N integers and an integer K, returns the array A rotated K times.  
-[`more button`](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
+[`more`](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
 
 ### Solution
 ```python
