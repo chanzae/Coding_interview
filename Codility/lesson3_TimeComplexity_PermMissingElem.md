@@ -14,8 +14,8 @@ def solution(A):
 ```
 time complexity O(n2) : 60%  
 for문을 사용했을 때 타임에러로 몇몇 테스트에서 실패하였다.   
-  
-
+<br>
+<br>
 ```python
 # 풀이2 - 통과
 def solution(A):
