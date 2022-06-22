@@ -49,7 +49,7 @@ def solution(X, A):
             
     return answer
 ```
-time complexity O(N ** 2) : 54%
+time complexity O(N ** 2) : 54%  
 풀이1의 시간복잡도를 개선시키기 위해 큐를 사용했지만 시간복잡도가 더 떨어졌다.
 <br>
 <br>
@@ -72,7 +72,7 @@ def solution(X, A):
             
     return answer
 ```
-time complexity O(N) : 81%
+time complexity O(N) : 81%  
 xlist를 Counter로 구성하였더니 시간복잡도가 개선되었다.
 <br>
 <br>
@@ -96,5 +96,5 @@ def solution(X, A):
             
     return answer
 ```
-time complexity O(N) : 100%
+time complexity O(N) : 100%  
 풀이3에서 힌트를 얻어 A를 큐로 변환하였다. 
