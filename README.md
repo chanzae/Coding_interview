@@ -1,7 +1,7 @@
-# Coding_interview
 <div align="center">
+
+# Coding_interview
 코딩테스트 위한 풀이 저장소입니다.    
-  
 언어 : 🚪SQL, 🐍Python  
 참고 사이트 : [programmers](https://programmers.co.kr/), [codility](https://app.codility.com/programmers/)   
 <br>
