@@ -15,6 +15,6 @@ def solution(nums):
         return cnt
 ```
 <br>
-<br> 
-### 설명  
+
+### 설명
 if조건문을 사용해 풀이하였다. 하지만, min()을 사용하면 더 간결하게 풀 수 있다.
